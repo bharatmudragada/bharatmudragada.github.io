@@ -1,7 +1,7 @@
 {
 "events": [
-        { "title":"Title of 1st event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/me.jpg" },
-        { "title":"Title of 2nd event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/bharat.jpg" },
-        { "title":"Title of 3rd event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/shanavaz2.jpg" }
+        { "title":"Title of 1st event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/me.jpg", "name": "karthik.jpg" },
+        { "title":"Title of 2nd event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/bharat.jpg", "name": "bharat.jpg" },
+        { "title":"Title of 3rd event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/shanavaz2.jpg", "name": "shanavaz.jpg" }
     ]
 }
