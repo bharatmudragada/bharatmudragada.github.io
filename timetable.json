@@ -2,13 +2,13 @@
   "1A": [
     {
       "1": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "2": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "3": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "4": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "5": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "6": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "7": ["DS","OOPS","FCP","DBMS","DAA","OS"],
-      "8": ["DS","OOPS","FCP","DBMS","DAA","OS"],
+      "2": ["DBMS","DAA","OS","DS","OOPS","FCP"],
+      "3": ["OS","DS","FCP","DBMS","OOPS","DAA"],
+      "4": ["DAA","OOPS","FCP","DS","DBMS","OS"],
+      "5": ["DS","DBMS","OOPS","FCP","DAA","OS"],
+      "6": ["OOPS","FCP","DBMS","DS","DAA","OS"],
+      "7": ["FCP","DBMS","DS","OOPS","DAA","OS"],
+      "8": ["DBMS","DS","OOPS","FCP","DAA","OS"],
       "9": ["DS","OOPS","FCP","DBMS","DAA","OS"]
     } 
   ]
