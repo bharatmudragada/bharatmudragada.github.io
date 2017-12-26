@@ -1,7 +1,7 @@
 {
 "events": [
-        { "title":"Title of 1st event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/me.jpg", "name": "karthik.jpg" },
-        { "title":"Title of 2nd event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/bharat.jpg", "name": "bharat.jpg" },
-        { "title":"Title of 3rd event", "description": "Description", "image": "https://technogeeko.000webhostapp.com/shanavaz2.jpg", "name": "shanavaz.jpg" }
+        { "title":"Title of 1st event", "description": "HI this is karthik!!..I am presently pursuing my btech in GMRIT. I love animations and space travles..Thank u", "image": "https://technogeeko.000webhostapp.com/me.jpg", "name": "karthik.jpg" },
+        { "title":"Title of 2nd event", "description": "HI this is Bharat!!..I am presently pursuing my btech in GMRIT. I love coding..Thank u", "image": "https://technogeeko.000webhostapp.com/bharat.jpg", "name": "bharat.jpg" },
+        { "title":"Title of 3rd event", "description": "HI this is Shanavaz!!..I am presently pursuing my btech in GMRIT. I love teasing others..Thank u", "image": "https://technogeeko.000webhostapp.com/shanavaz2.jpg", "name": "shanavaz.jpg" }
     ]
 }
