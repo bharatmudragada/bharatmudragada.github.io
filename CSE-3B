@@ -1,0 +1,15 @@
+{
+  "1A": [
+    {
+      "1": ["9:50","DBMS","DAA","OS","DS","OOPS","FCP"],
+      "2": ["1:30","OOPS","FCP","DBMS","DS","DAA","OS"],
+      "3": ["10:50","OS","DS","FCP","DBMS","OOPS","DAA"],
+      "4": ["11:40","DAA","OOPS","FCP","DS","DBMS","OS"],
+      "5": ["12:30","Lunch","Lunch","Lunch","Lunch","Lunch","Lunch"],
+      "6": ["9:00","DS","OOPS","FCP","DBMS","DAA","OS"],
+      "7": ["2:20","FCP","DBMS","DS","OOPS","DAA","OS"],
+      "8": ["3:10","DBMS","DS","OOPS","FCP","DAA","OS"],
+      "9": ["4:00","DS","OOPS","FCP","DBMS","DAA","OS"]
+    } 
+  ]
+}
