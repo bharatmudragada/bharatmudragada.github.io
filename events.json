@@ -1,7 +1,7 @@
 {
 "events": [
         { "title":"Hackathon", "description": "Show case your Coding Skills", "image": "https://bharatmudragada.github.io/hackathon.png", "name": "hackathon.png" },
-        { "title":"Puzzle Break", "description": "Solve the Puzzles", "image": "https://bharatmudragada.github.io/puzzle.jpeg", "name": "puzzle.png" },
+        { "title":"PuzzleBreak", "description": "Solve the Puzzles", "image": "https://bharatmudragada.github.io/puzzle.jpeg", "name": "puzzle.png" },
         { "title":"Quiz", "description": "Prove your Technical Knowledge", "image": "https://bharatmudragada.github.io/team.jpg", "name": "Quiz.png" }
     ]
 }
