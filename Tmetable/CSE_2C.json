@@ -1,0 +1,19 @@
+{
+	"CSE_2C": [
+		{
+			"1": ["9:00","OS","P&S","SE","TOC","<---","M&I"],
+			"2": ["9:50","WT","M&I","<---","ILM","--","TOC"],
+			"3": ["10:50","M&I","OS","M&I/WT","OS","LP-lab","WT"],
+			"4": ["11:40","TED","SE","--->","P&S","--->","CHE"],
+			"5": ["12:30","LUNCH","LUNCH","LUNCH","LUNCH","LUNCH","LUNCH"],
+			"6": ["1:30","TOC","<---","WT","WT","TOC","P&S"],
+			"7": ["2:20","<----","M&I/WT","SEMINAR","M&I","P&S","SE"],
+			"8": ["3:10","SE-->","--->","OS","QA","CSS","<----"],
+			"9": ["4:00","---","---","---","---","---","ECCC-->"],
+			"code": ["16MA405","16EC410","16IT406","16CS404","16CS405","16CS406","16EC411","16CS408","16CS409","16CS404","16ESX02","-","-","-","-","-"],
+      "CourseTitle": ["Probability and Statistics","Microprocessors and Interfacing","Operating System","Software Engineerig","Theory of Computation","Web Technologies","Microprocessor and Interfacing Lab","Linux Programming Lab","Web Technologies Lab","SoftwareEngineering Lab","QA/CSS","ECCC","CHE","ILM","TED","SEMINAR"],
+      "Credit": ["3","3","3","4","3","3","2","2","2","-","1","1","-","-","-","-"],
+      "Faculty": ["Mr.P.VamsiSagar","Mr.P.Kalyan Chakravarthy","Mr.Aditya Kumar Sahu","Dr.B.D.Deebak","Mrs.V.Mahalakshmi","Dr.V.Sreerama Murthy","Mr.P.KalyanChakravarthy","Mr.K.Lakshmana Rao/Mrs.S.Vani Kumari","Dr.V.Sreerama Murthy/Ms.U.Gautami","Dr.B.D.Deebak/Mr.Aditya Kumar Sahu","Mrs.Meena Tirupati","Mr.K.Suresh Kumar","Mrs.N.Lakshmi Devi","-","Mr.K.Somesh","Sri Srinivasan Nagaraj"]
+		}
+	]
+}
