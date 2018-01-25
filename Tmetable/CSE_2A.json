@@ -2,13 +2,13 @@
   "Timetable": [
     {
       "1": ["9:00","P&S","LP-lab","OS","SE","TOC","WT"],
-      "2": ["9:50","M&I","LP-lab","SE","M&I/WT","OS","P&S"],
-      "3": ["10:50","SEMINAR","LP-lab","M&I","M&I/WT","WT","TED"],
-      "4": ["11:40","WT","LP-lab","TOC","M&I/WT","P&S","OS"],
+      "2": ["9:50","M&I","LP-lab","SE","M&I/","OS","P&S"],
+      "3": ["10:50","SEM","LP-lab","M&I","M&I/","WT","TED"],
+      "4": ["11:40","WT","LP-lab","TOC","M&I/","P&S","OS"],
       "5": ["12:30","Lunch","Lunch","Lunch","Lunch","Lunch","Lunch"],
-      "6": ["1:30","M&I/WT","SE","WT","OS","M&I","SE"],
-      "7": ["2:20","M&I/WT","TOC","ILM","M&I","ECCC","SE"],
-      "8": ["3:10","M&I/WT","CSS","P&S","TOC","ECCC","QA"],
+      "6": ["1:30","M&I/","SE","WT","OS","M&I","SE"],
+      "7": ["2:20","M&I/","TOC","ILM","M&I","ECCC","SE"],
+      "8": ["3:10","M&I/","CSS","P&S","TOC","ECCC","QA"],
       "9": ["4:00","---","---","CHE","---","---","---"]
       },
     {
