@@ -10,7 +10,7 @@
       "7": ["2:20","M&I/WT","TOC","ILM","M&I","<---","SE-->"],
       "8": ["3:10","--->","CSS","P&S","TOC","ECCC-->","QA"],
       "9": ["4:00","---","---","CHE","---","---","---"],
-      }
+      },
     {
       "code": ["16MA405","16EC410","16IT406","16CS404","16CS405","16CS406","16EC411","16CS408","16CS409","16CS404","16ESX02","-","-","-","-","-"],
       "CourseTitle": ["Probability and Statistics","Microprocessors and Interfacing","Operating System","Software Engineerig","Theory of Computation","Web Technologies","Microprocessor and Interfacing Lab","Linux Programming Lab","Web Technologies Lab","SoftwareEngineering Lab","QA/CSS","ECCC","CHE","ILM","TED","SEMINAR"],
