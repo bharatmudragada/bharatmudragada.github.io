@@ -15,7 +15,8 @@
       "code": ["16MA405","16EC410","16IT406","16CS404","16CS405","16CS406","16EC411","16CS408","16CS409","16CS404","16ESX02","-","-","-","-","-"],
       "CourseTitle": ["Probability and Statistics","Microprocessors and Interfacing","Operating System","Software Engineerig","Theory of Computation","Web Technologies","Microprocessor and Interfacing Lab","Linux Programming Lab","Web Technologies Lab","SoftwareEngineering Lab","QA/CSS","ECCC","CHE","ILM","TED","SEMINAR"],
       "Credit": ["3","3","3","4","3","3","2","2","2","-","1","1","-","-","-","-"],
-      "Faculty": ["Mr.P.VamsiSagar","Mr.P.Ravi Kumar","Dr.R.Priya Vyjayanthi","Mr.Aditya Kumar Sahu","Mr.Ch.Chakradhararao","Ms.G.Neelima","Mr.P.Ravi Kumar","Mrs.S.Vani Kumari/Mr.K.Lakshmana Rao","Ms.G.Neelima/Mrs.I.Srilakshmi","Mr.Aditya Kumar Sahu/Mr.D.Siva Krishna","Mrs.Meena Tirupati","Ms.Y.Divya Bharathi","Mrs.K.Srividya","-","Sri M.Rama Chandra","Mrs.V. Mahalakshmi"]
+      "Faculty": ["Mr.P.VamsiSagar","Mr.P.Ravi Kumar","Dr.R.Priya Vyjayanthi","Mr.Aditya Kumar Sahu","Mr.Ch.Chakradhararao","Ms.G.Neelima","Mr.P.Ravi Kumar","Mrs.S.Vani Kumari/Mr.K.Lakshmana Rao","Ms.G.Neelima/Mrs.I.Srilakshmi","Mr.Aditya Kumar Sahu/Mr.D.Siva Krishna","Mrs.Meena Tirupati","Ms.Y.Divya Bharathi","Mrs.K.Srividya","-","Sri M.Rama Chandra","Mrs.V. Mahalakshmi"],
+      "HandoutUrl":["-","https://bharatmudragada.github.io/handouts/MicroprocessorsandInterfacing.pdf","https://bharatmudragada.github.io/handouts/OperatingSystem.pdf","https://bharatmudragada.github.io/handouts/SoftwareEngineering.pdf","https://bharatmudragada.github.io/handouts/TheoryofComputation.pdf","https://bharatmudragada.github.io/handouts/WebTechnologies.pdf","https://bharatmudragada.github.io/handouts/MicroprocessorandInterfacingLab.pdf","https://bharatmudragada.github.io/handouts/LinuxProgramminglabLab.pdf","https://bharatmudragada.github.io/handouts/WebTechnologiesLab.pdf","-","-","-","-","-","-","-"]   
     }
   ]
 }
