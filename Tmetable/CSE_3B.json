@@ -1,0 +1,19 @@
+{
+  "CSE_3B": [
+    {
+      "1": ["9:00","MC/IBM","OE","DE","OE","OOAD","MC/IBM"],
+      "2": ["9:50","LP","OOAD/LP-lab","SEMIANR","OOAD","CSS","DE"],
+      "3": ["10:50","DE","OOAD/LP-lab","LP","MC/IBM","LP","QA"],
+      "4": ["11:40","OOAD","OOAD/LP-lab","DE","DE","DE","OOAD"],
+      "5": ["12:30","Lunch","Lunch","Lunch","Lunch","Lunch","Lunch"],
+      "6": ["1:30","MC/IBM","LP","OE","MP-lab","OE","---"],
+      "7": ["2:20","OOAD/LP-lab","ECCC","DE","MP-lab","---","---"],
+      "8": ["3:10","OOAD/LP-lab","---","CSS","MP-lab","---","---"],
+      "9": ["4:00","---","---","---","---","---","---"],
+      "code": ["CSE3412","IT3414","CSE3413","CSE3415","CSE3417","IT3422","IT3219","CSE3218","GMR30204","-","-","-","-","-","-"],
+      "CourseTitle": ["Data Engineering","Object Oriented Analysis and Design","Language Processors","Mobile Computing","Soft Computing(OE)","IBM","Object Oriented Analysis and Design Lab","Language Processors Lab","Mini Project","CSS","QA","Seminar","TED","CHE","ECCC"],
+      "Credit": ["4","4","4","4","4","4","2","2","2","","","","","",""],
+      "Faculty": ["Mrs.N.Lakshmi Devi","Mrs.K.Sri vidhya","Mrs.P.Someswari","Dr.R.Priya Vijayanthi","Dr.Sasanko Sekhar Gantayat","Mr.G.Satya Keerthi","Mrs.K.Srividya/Ms.Y.Divya Bharathi","Mrs.P.Someswari/Sri Ch.Chakradhara Rao","Mrs.K.Srividya/Mrs.S.Vani Kumari","Mr.Syed Mohibur Rahaman/Mrs.Meena Tirupati","Mr.V.Appala Naidu","Sri Ch.Chakradhar Rao","Sri M.Balajee","Mrs.N.Lakshmi Devi","Ms.G.Neelima"]
+    }
+  ]
+}
