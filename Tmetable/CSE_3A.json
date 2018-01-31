@@ -6,10 +6,12 @@
       "3": ["10:50","TED","LP","DE","MC/IBM","OOAD/LP-lab","LP"],
       "4": ["11:40","LP","CSS","CSS","OOAD","OOAD/LP-lab","OOAD"],
       "5": ["12:30","Lunch","Lunch","Lunch","Lunch","Lunch","Lunch"],
-      "6": ["1:30","MC/IBM","MP-lab","SC","OOAD/LP-lab","OE","---"],
+      "6": ["1:30","MC/IBM","MP-lab","OE","OOAD/LP-lab","OE","---"],
       "7": ["2:20","OOAD","MP-lab","---","OOAD/LP/lab","CHE","---"],
       "8": ["3:10","ECCC","MP-lab","---","OOAD/LP-lab","---","---"],
-      "9": ["4:00","---","---","---","---","---","---"],
+      "9": ["4:00","---","---","---","---","---","---"]
+    },
+    {
       "code": ["CSE3412","IT3414","CSE3413","CSE3415","CSE3417","IT3422","IT3219","CSE3218","GMR30204","-","-","-","-","-","-"],
       "CourseTitle": ["Data Engineering","Object Oriented Analysis and Design","Language Processors","Mobile Computing","Soft Computing(OE)","IBM","Object Oriented Analysis and Design Lab","Language Processors Lab","Mini Project","CSS","QA","Seminar","TED","CHE","ECCC"],
       "Credit": ["4","4","4","4","4","4","2","2","2","","","","","",""],
