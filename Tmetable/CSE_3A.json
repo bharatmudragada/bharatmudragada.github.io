@@ -14,7 +14,7 @@
     {
       "code": ["CSE3412","IT3414","CSE3413","CSE3415","CSE3417","IT3422","IT3219","CSE3218","GMR30204","-","-","-","-","-","-"],
       "CourseTitle": ["Data Engineering","Object Oriented Analysis and Design","Language Processors","Mobile Computing","Soft Computing(OE)","IBM","Object Oriented Analysis and Design Lab","Language Processors Lab","Mini Project","CSS","QA","Seminar","TED","CHE","ECCC"],
-      "Credit": ["4","4","4","4","4","4","2","2","2","","","","","",""],
+      "Credit": ["4","4","4","4","4","4","2","2","2","-","-","-","-","-","-"],
       "Faculty": ["Mr.K.Somesh","Mrs.N.Lakshmi Devi","Dr.V.Prasad","Mr.Srinivasan Nagaraj","Dr.Sasanko Sekhar Gantayat","Mr.G.Satya Keerthi","Mrs.N.Lakshmi Devi/Mr.K.Suresh Kumar","Dr.V.Prasad/Sri V.Srinadh","Sri V.Srinadh/ Mr.D.Siva Krishna","Mr.Syed Mohibur Rahaman/Mrs.Meena Tirupati","Dr.V.S.S.R.Gupta","Mrs.I.Srilakshmi","Mr.K.Suresh Kumar","Mrs.K.Srividya","Mr.K. Somesh"]
     }
   ]
