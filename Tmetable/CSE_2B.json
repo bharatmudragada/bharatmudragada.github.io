@@ -12,10 +12,11 @@
 			"9": ["4:00","---","QA","---","---","---","---"]
 		},
 		{
-			"code": ["16MA405","16EC410","16IT406","16CS404","16CS405","16CS406","16EC411","16CS408","16CS409","16CS404","16ESX02","-","-","-","-","-"],
-      "CourseTitle": ["Probability and Statistics","Microprocessors and Interfacing","Operating System","Software Engineerig","Theory of Computation","Web Technologies","Microprocessor and Interfacing Lab","Linux Programming Lab","Web Technologies Lab","SoftwareEngineering Lab","QA/CSS","ECCC","CHE","ILM","TED","SEMINAR"],
-      "Credit": ["3","3","3","4","3","3","2","2","2","-","1","1","-","-","-","-"],
-      "Faculty": ["Dr.R.L.Naidu","Mr.B.M.S.Srinivas","Mr.M.Rama Chandra","Dr.A.Venkata Ramana","Mr.V.Srinadh","Mr.G.Veerraju","Mr.B.M.S.Srinivas","Dr.V.Prasad/ Sri.K.Lakshmana Rao","Mr.G.Veerraju/Mr.K.Suresh Kumar","Dr.A.Venkata Ramana/Dr.B.D.Deebak","Mrs.Meena Tirupati","Ms.U.Gautami","Dr.V.Prasad","-","Dr.Sasanko Sekhar Gantayat","Mrs.S.Vani Kumari"]
+		"code": ["16MA405","16EC410","16IT406","16CS404","16CS405","16CS406","16EC411","16CS408","16CS409","16CS404","16ESX02","-","-","-","-","-"],
+      		"CourseTitle": ["Probability and Statistics","Microprocessors and Interfacing","Operating System","Software Engineerig","Theory of Computation","Web Technologies","Microprocessor and Interfacing Lab","Linux Programming Lab","Web Technologies Lab","SoftwareEngineering Lab","QA/CSS","ECCC","CHE","ILM","TED","SEMINAR"],
+      		"Credit": ["3","3","3","4","3","3","2","2","2","-","1","1","-","-","-","-"],
+      		"Faculty": ["Dr.R.L.Naidu","Mr.B.M.S.Srinivas","Mr.M.Rama Chandra","Dr.A.Venkata Ramana","Mr.V.Srinadh","Mr.G.Veerraju","Mr.B.M.S.Srinivas","Dr.V.Prasad/ Sri.K.Lakshmana Rao","Mr.G.Veerraju/Mr.K.Suresh Kumar","Dr.A.Venkata Ramana/Dr.B.D.Deebak","Mrs.Meena Tirupati","Ms.U.Gautami","Dr.V.Prasad","-","Dr.Sasanko Sekhar Gantayat","Mrs.S.Vani Kumari"],
+		"HandoutUrl":["-","https://bharatmudragada.github.io/handouts/MicroprocessorsandInterfacing.pdf","https://bharatmudragada.github.io/handouts/OperatingSystem.pdf","https://bharatmudragada.github.io/handouts/SoftwareEngineering.pdf","https://bharatmudragada.github.io/handouts/TheoryofComputation.pdf","https://bharatmudragada.github.io/handouts/WebTechnologies.pdf","https://bharatmudragada.github.io/handouts/MicroprocessorandInterfacingLab.pdf","https://bharatmudragada.github.io/handouts/LinuxProgramminglabLab.pdf","https://bharatmudragada.github.io/handouts/WebTechnologiesLab.pdf","-","-","-","-","-","-","-"] 
 		}
 	]
 }
