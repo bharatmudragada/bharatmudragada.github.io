@@ -1,0 +1,22 @@
+{
+	"Timetable": [
+		{
+			"1": ["9:00","-","-","-","-","-","-"],
+			"2": ["9:50","WT","-","WT-lab","WT-lab","-","-"],
+			"3": ["10:50","-","-","WT-lab","MP-lab(Sec-B)","-","WT"],
+			"4": ["11:40","-","-","WT-lab","MP-lab(Sec-B)","-","-"],
+			"5": ["12:30","LUNCH","LUNCH","LUNCH","LUNCH","LUNCH","LUNCH"],
+			"6": ["1:30","MP-lab(Sec-A)","WT-lab","WT","WT","-","-"],
+			"7": ["2:20","MP-lab(Sec-A)","WT-lab","-","-","-","-"],
+			"8": ["3:10","MP-lab(Sec-A)","WT-lab","-","MP-lab(Sec-A)","-","-"],
+			"9": ["4:00","-","-","-","MP-lab(Sec-A)","-","-"]
+		},
+		{
+			"code": ["16CS406","16CS409","GMR41205","GMR41205"],
+    	"CourseTitle": ["Web Technologies(Sec-C)","Web Technologies Lab(Sec-C)","Main Project Lab(Sec-A)","Main Project Lab(Sec-B)"],
+    	"Credit": ["3","2","2","2"],
+    	"Faculty": ["4-Hours","6-Hours","4-Hours","3-Hours"],
+			"HandoutUrl":["https://bharatmudragada.github.io/handouts/WebTechnologies.pdf","https://bharatmudragada.github.io/handouts/WebTechnologiesLab.pdf","-","-"]
+		}
+	]
+}
